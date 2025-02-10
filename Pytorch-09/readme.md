@@ -1,7 +1,7 @@
 # Day 9: Building CNN in PyTorch
 
 ## Introduction
-This notebook is part of my deep learning journey following Andrej Karpathy’s "Neural Networks: Zero to Hero" series. In Day 9, I focused on building a Convolutional Neural Network (CNN) using PyTorch to classify images from the Fashion MNIST dataset (using a small subset due to CPU limitations). In this lecture, I learned how to construct a CNN model, how to preprocess and handle image data, and how to design an efficient training pipeline using PyTorch’s Dataset and DataLoader classes.
+This notebook is part of my Pytorch learning journey. In Day 9, I focused on building a Convolutional Neural Network (CNN) using PyTorch to classify images from the Fashion MNIST dataset (using a small subset due to CPU limitations). In this lecture, I learned how to construct a CNN model, how to preprocess and handle image data, and how to design an efficient training pipeline using PyTorch’s Dataset and DataLoader classes.
 
 ## What is a CNN?
 A Convolutional Neural Network (CNN) is a specialized type of neural network designed for processing grid-like data such as images. Key characteristics of CNNs include:
